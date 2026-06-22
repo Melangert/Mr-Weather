@@ -23,6 +23,7 @@ Current conditions in a city
 
 Daily highs/lows for the next 5 days
 
-/mwb-compare
+/mwb-compare [city1] | [city2]
+(remember the | or it wont work)
 	
 Side-by-side current weather
